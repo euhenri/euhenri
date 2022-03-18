@@ -12,7 +12,8 @@
   <img align="center" alt="henri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="henri-lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
   <img align="center" alt="henri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/857445053710860318/936139392924418088/henri.bone.png">
+  <img align="center" alt="henri-Csharp" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="right" alt="henri-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/857445053710860318/936139392924418088/henri.bone.png">
 </div>
   
   ##
