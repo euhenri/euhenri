@@ -1,7 +1,7 @@
 
 ## Hello World! My name is Henrique, I'm 25 years old and I'm from Manaus/AM, I'm graduating in the Computer Engineering course (9th period). I am currently working as a Back-end developer. I am a volunteer teacher for a project called cosmos project, where I teach basic programming to children from public schools in the Amazon. ❤
 
-<div align="center">
+</div>
   <a href="https://github.com/euhenri">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=euhenri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euhenri&layout=compact&langs_count=7&theme=dracula"/>
