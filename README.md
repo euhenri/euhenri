@@ -1,5 +1,5 @@
 
-#### Hello World! My name is Henrique, I'm 25 years old and I'm from Manaus/AM, I'm graduating in the Computer Engineering course (10th period). I am currently working as a Back-end developer. I am a volunteer teacher for a project called cosmos project, where I teach basic programming to children from public schools in the Amazon. ❤
+#### 👋 Hi, I'm Henrique, a computer engineering graduate from Brazil. At 27 years old, I work as a Back-end developer and take on freelance programming projects focused on FiveM servers. I have solid experience in JavaScript, Lua, and Python, with a strong focus on system development and process automation. My skills include creating custom scripts, optimizing code, and integrating APIs for robust and scalable solutions.
 
 <div align="center">
   <a href="https://github.com/euhenri">
@@ -15,10 +15,7 @@
   <img align="center" alt="henri-django" height="30" width="30" src="https://cdn.discordapp.com/attachments/928806267697369128/957523638624604170/unknown.png">
   <img align="center" alt="henri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="henri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="henri-lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
-  <img align="center" alt="henri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="henri-jupyter" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="right" alt="henri-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/857445053710860318/936139392924418088/henri.bone.png">
+  <img align="center" alt="henri-lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg">
 </div>
   
   ##
