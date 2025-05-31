@@ -1,5 +1,5 @@
 
-#### 👋 Hi, I'm Henrique, a computer engineering graduate from Brazil. At 27 years old, I work as a Back-end developer and take on freelance programming projects focused on FiveM servers. I have solid experience in JavaScript, Lua, and Python, with a strong focus on system development and process automation. My skills include creating custom scripts, optimizing code, and integrating APIs for robust and scalable solutions.
+#### 👋 Hi, I'm Henrique, a computer engineering graduate from Brazil. At 28 years old, I work as a Back-end developer and take on freelance programming projects focused on FiveM servers. I have solid experience in JavaScript, Lua, and Python, with a strong focus on system development and process automation. My skills include creating custom scripts, optimizing code, and integrating APIs for robust and scalable solutions.
 
 <div align="center">
   <a href="https://github.com/euhenri">
