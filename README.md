@@ -47,6 +47,7 @@
   <a href="https://www.twitch.tv/henriizinn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
+#
 <div align="center">
   <img src="https://github.com/euhenri/euhenri/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
