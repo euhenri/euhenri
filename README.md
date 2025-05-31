@@ -25,8 +25,10 @@
 
 ### GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euhenri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euhenri&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/euhenri">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euhenri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&custom_title=My%20GitHub%20Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euhenri&layout=compact&langs_count=7&theme=dracula&hide_border=true&custom_title=Most%20Used%20Languages"/>
+  </a>
 </div>
 
 ### Featured Projects
