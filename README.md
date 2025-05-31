@@ -2,7 +2,7 @@
 ## Back-end Developer & FiveM Specialist
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+HENRIQUE+SILVA;I'm+a+Back-end+Developer;FiveM+Development+Specialist;Computer+Engineering+Graduate" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff00ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+HENRIQUE+SILVA;I'm+a+Back-end+Developer;FiveM+Development+Specialist;Computer+Engineering+Graduate" />
 </div>
 
 ### About Me
@@ -24,7 +24,7 @@
 </div>
 
 ### GitHub Stats
-<div align="center">
+<div>
   <a href="https://github.com/euhenri">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euhenri&show_icons=true&theme=holi&include_all_commits=true&count_private=true&hide_border=true&custom_title=My%20GitHub%20Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euhenri&layout=pie&langs_count=7&theme=holi&hide_border=true&custom_title=Most%20Used%20Languages"/>
