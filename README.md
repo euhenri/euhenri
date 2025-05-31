@@ -33,9 +33,9 @@
 </div>
 
 ### Featured Projects
-- 🎮 Custom script development for FiveM servers.
-- 🔧 Process automation and API integration.
-- 💻 Robust and scalable back-end system development.
+- 🎮 Custom script development for FiveM servers
+- 🔧 Process automation and API integration
+- 💻 Robust and scalable back-end system development
 
 ### Connect With Me
 <div> 
